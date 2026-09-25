@@ -10,4 +10,4 @@
    - project-notes.md — заметки по проекту
    - api-plan.md — план API
 
-      ## Статус: MVP готов
+## Статус: MVP готов
